@@ -4,7 +4,7 @@
 
 <br>
 
-# 💙 Estudos PROA — Desenvolvimento Mobile
+#   Estudos PROA — Desenvolvimento Mobile
 
 <br>
 
