@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_title">App de escolhas aleatórias</string>
+    <string name="description">Escolhas aleatórias de coisas que o Gabriel (Vulgo BiBi) odeia!!</string>
+    <string name="button_text">Aperte o botão</string>
+    <string name="btn_sortear_novamente">Sortear novamente</string>
+    <string name="btn_tela_inicial">Tela Inicial</string>
+    <string name="nome_exemplo">Jailson</string>
+</resources>
